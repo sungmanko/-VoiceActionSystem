@@ -1,0 +1,35 @@
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+D:\workspace\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+D:\workspace\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+D:\workspace\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+D:\workspace\SR_Test\SR_Test\bin\Debug\Microsoft.Speech.dll
+D:\workspace\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+D:\workspace\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+D:\workspace\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+D:\workspace\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+D:\workspace\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+D:\workspace\SR_Test-jp\SR_Test\bin\Debug\SR_Test.exe.config
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.exe
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.pdb
+D:\workspace\SR_Test-jp\SR_Test\bin\Debug\SR_Test.exe
+D:\workspace\SR_Test-jp\SR_Test\bin\Debug\SR_Test.pdb
+D:\workspace\SR_Test-jp\SR_Test\bin\Debug\Microsoft.Speech.dll
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.Form1.resources
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\Interop.SpeechLib.dll
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.csproj.ResolveComReference.cache
+D:\workspace\SR_Test-jp\SR_Test\bin\Debug\input.xml
+D:\workspace\SR_Test-jp\SR_Test\obj\Debug\SR_Test.csprojResolveAssemblyReference.cache
+D:\workspace\Sample\■VoiceActionSystem\SR_Test\bin\Debug\SR_Test.exe.config
+D:\workspace\Sample\■VoiceActionSystem\SR_Test\obj\Debug\Interop.SpeechLib.dll
+D:\workspace\Sample\■VoiceActionSystem\SR_Test\obj\Debug\SR_Test.csproj.ResolveComReference.cache
+D:\workspace\Sample\■VoiceActionSystem\SR_Test\obj\Debug\SR_Test.exe
+D:\workspace\Sample\■VoiceActionSystem\SR_Test\obj\Debug\SR_Test.pdb

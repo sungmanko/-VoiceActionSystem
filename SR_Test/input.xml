@@ -1,0 +1,22 @@
+<grammar version="1.0" sapi:alphabet="x-microsoft-ups" xml:lang="ja-JP" root="rakutencard"
+         tag-format="semantics-ms/1.0" xmlns="http://www.w3.org/2001/06/grammar"
+         xmlns:sapi="http://schemas.microsoft.com/Speech/2002/06/SRGSExtensions">
+
+  <rule id="rakutencard">
+    <one-of>
+      <item>お疲れ様でした</item>
+
+      <item>おはよう</item>
+      <item>電卓 起動</item>
+      <item>電卓 終了</item>
+      
+      <item>メモ長 起動</item>
+      <item>メモ長 終了</item>
+      <item>電卓 終了</item>
+      <item>電卓 終了</item>
+
+      <item>FAQ</item>
+    </one-of>
+  </rule>
+
+</grammar>
